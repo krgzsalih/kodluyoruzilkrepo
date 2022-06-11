@@ -1,5 +1,7 @@
 # Kodluyoruz Ilk Repo
 
+Patika.dev Profilim = [https://app.patika.dev/krgzsalih](https://app.patika.dev/krgzsalih)
+
 Bu repo [Kodluyoruz](https://kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 ![Kodluyoruz ilk repo resmi](https://i.hizliresim.com/dfs1mc9.PNG)
